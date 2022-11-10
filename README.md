@@ -1,4 +1,5 @@
-# OMNI-CHANNEL-WHALE
-a service for merchant-client transactions with any payment system
+# ОМНИКАНАЛЬНОСТЬ
+сервис для оплаты любым платёжным инструментом 
+
 
 В папке whales_registr хранится архив прототипа сервиса со стороны продавца. Чтобы просмотреть работу, требуется скачать папку на ПК и открыть файл index.html.
